@@ -3,19 +3,21 @@ layout: about
 title: About
 ---
 
-## Welcome to Promise Computer Tech
+## Welcome to Promise Tech
 
 ### Why
 
 While companies are searching for tech workers, many people are either unemployed or working a job that they don't desire. So we want to be an intermediate connecting these two parties.
 
+
 ### How
 
 We liaise with fast growing companies and determine what needs the might have in the future and meet up with there demands. We know how best to train students to meet up with these demands. 
 
+
 ### What
 
-At Promise computer tech students take up 6 months high training for careers like data engineering, cloud computing etc. Students learn at there own pace and comfortability. A coach is assigned to each student to follow up his learning process.
+At Promise Tech students take up 6 months high training for careers like data engineering, cloud computing etc. Students learn at there own pace and comfortability. A coach is assigned to each student to follow up his learning process.
 At the end of the six months, the mentors and the coach will help the student get a job. The class is free and the payment is made through income share agreement plan if the student successfully gets the job.
 
 
