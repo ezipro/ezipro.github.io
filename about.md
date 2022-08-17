@@ -12,7 +12,7 @@ While companies are searching for tech workers, many people are either unemploye
 
 ### How
 
-We liaise with fast growing companies and determine what needs the might have in the future and meet up with there demands. We know how best to train students to meet up with these demands. 
+We liaise with fast growing companies and determine what needs they might have in the future and meet up with their demands. We know how best to train students to meet up with these demands. 
 
 
 ### What
