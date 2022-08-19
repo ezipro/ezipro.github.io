@@ -3,22 +3,27 @@ layout: about
 title: About
 ---
 
-## Welcome to Promise Tech
-
-### Why
-
-While companies are searching for tech workers, many people are either unemployed or working a job that they don't desire. So we want to be an intermediate connecting these two parties.
+## Welcome to Ezika Promise O.
 
 
-### How
+### Who are you
 
-We liaise with fast growing companies and determine what needs they might have in the future and meet up with their demands. We know how best to train students to meet up with these demands. 
+My name is Ezika Promise a Nigerian and graduate of Mechanical Engineering. For years I have been passionate looking for ways to achieve my goal of becoming a software Engineer. 
 
 
-### What
+### What do you do
 
-At Promise Tech students take up 6 months high training for careers like data engineering, cloud computing etc. Students learn at there own pace and comfortability. A coach is assigned to each student to follow up his learning process.
-At the end of the six months, the mentors and the coach will help the student get a job. The class is free and the payment is made through income share agreement plan if the student successfully gets the job.
+I am a Pipeline integrity engineer. But out of job.
+
+
+### What are you striving for
+
+Due to my flexibility and adaptability coupled with my ability to withstand pressure. It has been my career goal to be an effective Software Engineer on cloud developer, programmer to the best of my ability using it to heighten my knowledge and have a source of income. 
+
+
+### Where do you see yourself in 2 years from now
+
+In the next two years, I will be working with  a tech company in a broader sense, not only satisfying but also enhancing my client's satisfaction. 
 
 
 ### Contact 
