@@ -8,7 +8,7 @@ title: About
 
 ### Who are you
 
-My name is Ezika Promise a Nigerian and graduate of Mechanical Engineering. For years I have been passionate looking for ways to achieve my goal of becoming a software Engineer. 
+My name is Ezika Promise a Nigerian and graduate of Mechanical Engineering. For years I have been passionate looking for ways to achieving my goal of becoming a software Engineer. 
 
 
 ### What do you do
